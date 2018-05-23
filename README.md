@@ -28,4 +28,10 @@ criar sua branch de trabalho:
 ```
 git checkout -b readme
 ```
+## Quarto passo
+
+Criar um PR no github
+
+> va na tela inicial do repositório
+> clique em `Compare and Create Pull Request`
 
