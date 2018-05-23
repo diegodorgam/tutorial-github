@@ -21,3 +21,11 @@ git commit -m "primeiro passo"
 git push origin master
 ```
 
+## Terceiro passo
+
+criar sua branch de trabalho:
+
+```
+git checkout -b readme
+```
+
