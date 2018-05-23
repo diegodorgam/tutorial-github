@@ -21,3 +21,17 @@ git commit -m "primeiro passo"
 git push origin master
 ```
 
+## Terceiro passo
+
+criar sua branch de trabalho:
+
+```
+git checkout -b readme
+```
+## Quarto passo
+
+Criar um PR no github
+
+> va na tela inicial do repositório
+> clique em `Compare and Create Pull Request`
+
